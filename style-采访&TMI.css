@@ -1,0 +1,157 @@
+@charset "utf-8";
+/* CSS Document */
+#header{
+	height: 70px;
+	background-color: #8E5F95;
+	clear: both;
+	
+	
+}
+
+
+#logo{
+	padding-top: 17px;
+	padding-left: 80px;	
+	float: left;
+	
+}
+
+
+#logo a:hover,a:active{
+	background-color: #FBE56E;
+	
+
+}	
+
+
+#nav ul{
+	position: absolute;
+	top: 25px;
+	list-style-type: none;
+	padding-top: 5px;
+	padding-right: 135px;
+	float: right;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-left: 183px;
+}
+
+
+
+#nav li{
+	
+	float: left;
+	
+		
+}
+
+
+#nav a:link,a:visited{
+	display: block;
+	height: 30px;
+	width: 132px;
+	background: #8E5F95;
+	color: #000000;
+	text-decoration: none;
+	text-align: center;
+	font-size: 16px;
+	padding-top: 5px;
+	font-family: "方正正粗黑简体";
+}
+
+
+#nav a:hover,a:active{
+	background-color: #FBE56E;
+	
+	
+	
+	
+	
+	
+}	
+	
+	
+
+
+	
+
+
+
+
+
+#middle{
+	height: 1280px;
+	background: #000000;
+	width: 100%;
+	float: left;
+	
+}
+
+
+
+
+.ph3{
+	padding: 5px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	margin-top: 80px;
+	
+}
+
+
+.ph4{
+	padding: 5px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	margin-top: 410px;	
+	
+
+}
+
+
+
+
+
+#zhengli{
+	color: #FFFFFF;
+	position: relative;
+	margin-left: 540px;
+	margin-top: -1090px;
+	font-size: 14px;
+	line-height: 24px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#footer{
+	height: 50px;
+	background: #8E5F95;
+	clear: both;	
+	
+	
+}
+
+
+
+#jiewei{
+	position: relative;
+	font-weight: bold;
+	color: #BDBDBD;
+	font-size: 16px;
+	font-family: "微软雅黑";
+	margin-left: 486px;
+	margin-bottom: -11px;
+	padding-top: 1px;
+}
+

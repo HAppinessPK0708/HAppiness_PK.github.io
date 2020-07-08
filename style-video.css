@@ -1,0 +1,209 @@
+@charset "utf-8";
+/* CSS Document */
+#header{
+	height: 70px;
+	background-color: #8E5F95;
+	clear: both;
+	
+	
+}
+
+
+#logo{
+	padding-top: 17px;
+	padding-left: 80px;	
+	float: left;
+	
+}
+
+
+#logo a:hover,a:active{
+	background-color: #FBE56E;
+	
+
+}	
+
+
+#nav ul{
+	position: absolute;
+	top: 25px;
+	list-style-type: none;
+	padding-top: 5px;
+	padding-right: 135px;
+	float: right;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-left: 183px;
+}
+
+
+
+#nav li{
+	
+	float: left;
+	
+		
+}
+
+
+#nav a:link,a:visited{
+	display: block;
+	height: 30px;
+	width: 420px;
+	background: #8E5F95;
+	color: #000000;
+	text-decoration: none;
+	text-align: center;
+	font-size: 20px;
+	padding-top: 5px;
+	font-family: "方正正粗黑简体";
+}
+
+
+#nav a:hover,a:active{
+	background-color: #FBE56E;
+	
+	
+	
+	
+	
+	
+}	
+	
+	
+
+
+	
+
+
+
+
+
+#middle{
+	height: 7610px;
+	background: #000000;
+	width: 100%;
+	float: left;
+	
+}
+
+
+
+
+.video{
+	padding: 5px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	margin-top: 100px;
+	
+}
+
+
+.video1{
+	padding: 5px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	margin-top: 150px;	
+	
+
+}
+
+
+
+.video2{padding: 5px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	margin-top: 200px;	}
+
+
+.video3{padding: 5px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	margin-top: 250px;	}
+
+.video4{padding: 5px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	margin-top: 300px;	}
+
+.video5{padding: 5px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	margin-top: 350px;	}
+
+.video6{padding: 5px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	margin-top: 400px;	}
+
+
+.ph1{padding: 5px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	margin-top: 450px;}
+
+
+.ph2{padding: 5px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	margin-top: 500px;}
+
+.ph3{padding: 5px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	margin-top: 550px;}
+
+
+.ph4{padding: 5px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	margin-top:600px;}
+
+
+
+
+
+#zhengli{
+	color: #FFFFFF;
+	position: relative;
+	margin-left: 520px;
+	margin-top: -7480px;
+	font-size: 14px;
+	line-height: 24px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#footer{
+	height: 50px;
+	background: #8E5F95;
+	clear: both;	
+	
+	
+}
+
+
+
+#jiewei{
+	position: relative;
+	font-weight: bold;
+	color: #BDBDBD;
+	font-size: 16px;
+	font-family: "微软雅黑";
+	margin-left: 486px;
+	margin-bottom: -11px;
+	padding-top: 1px;
+}
+
